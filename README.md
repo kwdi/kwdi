@@ -7,7 +7,7 @@
 - Self-driven, creative and always willing to take initiatives.
 
 ---
-- I am currently working at \</salt> as a Fullstack Developer
+- I am currently working at Atlas Copco as a Software Engineer
 ---
 
 | Main Tech     | Web Stack       |
